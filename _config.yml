@@ -8,4 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  gardening:
+    title: gardening
+    output: true
 theme: jekyll-theme-modernist
