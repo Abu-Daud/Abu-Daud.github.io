@@ -1,5 +1,5 @@
 # this is the repository for
-# wwww. payne family financial .com
+# www. payne family financial .com
 
 **Your** Local Life and Health agent in North Texas
 
