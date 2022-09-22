@@ -163,7 +163,7 @@ body{
 
 .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/bx_loader.gif) center center no-repeat #fff;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/bx_loader.gif) center center no-repeat #fff;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -208,12 +208,12 @@ body{
 
 .bx-wrapper .bx-prev {
     left: 10px;
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) no-repeat 0 -32px;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) no-repeat 0 -32px;
 }
 
 .bx-wrapper .bx-next {
     right: 10px;
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) no-repeat -43px -32px;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) no-repeat -43px -32px;
 }
 
 .bx-wrapper .bx-prev:hover {
@@ -249,7 +249,7 @@ body{
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) -86px -11px no-repeat;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) -86px -11px no-repeat;
     margin: 0 3px;
 }
 
@@ -264,7 +264,7 @@ body{
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) -86px -44px no-repeat;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls.png) -86px -44px no-repeat;
     margin: 0 3px;
 }
 
@@ -309,7 +309,7 @@ body{
 }
 
 .bx-wrapper .bx-loading {
-    background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/bx_loader.gif) center center no-repeat transparent;
+    background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/bx_loader.gif) center center no-repeat transparent;
 }
 
 .bx-wrapper .bx-controls {
@@ -353,24 +353,24 @@ body{
 
 @media all and (-webkit-min-device-pixel-ratio: 2) {
     .bx-wrapper .bx-prev {
-        background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@2x.png) no-repeat 0 -32px;
+        background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@2x.png) no-repeat 0 -32px;
         background-size: 96px, 63px;
     }
 
     .bx-wrapper .bx-next {
-        background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@2x.png) no-repeat -43px -32px;
+        background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@2x.png) no-repeat -43px -32px;
         background-size: 96px, 63px;
     }
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 3) {
     .bx-wrapper .bx-prev {
-        background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@3x.png) no-repeat 0 -32px;
+        background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@3x.png) no-repeat 0 -32px;
         background-size: 96px, 63px;
     }
 
     .bx-wrapper .bx-next {
-        background: url(//www.prsinsurancesolutions.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@3x.png) no-repeat -43px -32px;
+        background: url(//www.paynefamilyfinancial.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/images/controls@3x.png) no-repeat -43px -32px;
         background-size: 96px, 63px;
     }
 }
@@ -2993,7 +2993,7 @@ span.wpcf7-list-item-label::after {
 div.wpcf7 .ajax-loader {
     visibility: hidden;
     display: inline-block;
-    background-image: url(//www.prsinsurancesolutions.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif);
+    background-image: url(//www.paynefamilyfinancial.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif);
     width: 16px;
     height: 16px;
     border: none;
@@ -4033,7 +4033,7 @@ small {
 }
 
 .header .call-phone span {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/phone-icon.png) no-repeat left center;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/phone-icon.png) no-repeat left center;
     display: block;
     height: 29px;
     padding-left: 34px;
@@ -4063,7 +4063,7 @@ small {
     background-color: none;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-image: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/icon-socials.png);
+    background-image: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/icon-socials.png);
     text-align: left;
     transition: background ease-in-out .3s;
     -webkit-transition: background ease-in-out .3s;
@@ -4224,7 +4224,7 @@ small {
 }
 
 .quote-bottom {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/contact-bg.png) #8ea7b6 repeat-x left top;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/contact-bg.png) #8ea7b6 repeat-x left top;
     font-size: 30px;
     color: #fff;
     font-family: 'Source Sans Pro', sans-serif;
@@ -4408,7 +4408,7 @@ small {
     width: 46%;
     display: inline-block;
     line-height: 26px;
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/arrow-icon.png) no-repeat left center;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/arrow-icon.png) no-repeat left center;
     padding-left: 14px;
 }
 
@@ -4462,13 +4462,13 @@ small {
 }
 
 .footer .place {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/place-icon.png) no-repeat left 5px;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/place-icon.png) no-repeat left 5px;
     padding-left: 26px;
     line-height: 22px;
 }
 
 .footer .bottom-tel {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/phone-icon-bottom.png) no-repeat left 5px;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/phone-icon-bottom.png) no-repeat left 5px;
     padding-left: 26px;
 }
 
@@ -4693,12 +4693,12 @@ html[xmlns] .flexslider .slides {
 }
 
 .flex-direction-nav a.flex-prev {
-    background-image: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/prev.png);
+    background-image: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/prev.png);
     left: 30px;
 }
 
 .flex-direction-nav a.flex-next {
-    background-image: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/next.png);
+    background-image: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/next.png);
     right: 30px;
 }
 
@@ -5061,13 +5061,13 @@ html[xmlns] .flexslider .slides {
     border-bottom: 0;
     border-left-color: #fff;
     border-right-color: #fff;
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/to-close.png) no-repeat 10px 50%;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/to-close.png) no-repeat 10px 50%;
 }
 
 .iaccordion h3.title.ui-accordion-header-active,
 .iaccordion h3.title.ui-state-active,
 .iaccordion .ui-accordion-header.ui-state-active {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/to-expand.png) no-repeat 10px 50%;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/to-expand.png) no-repeat 10px 50%;
     border-color: #d7d6d6;
 }
 
@@ -5089,7 +5089,7 @@ html[xmlns] .flexslider .slides {
 }
 
 .inio-faq .ui-accordion-header {
-    background: #fff url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/to-close-ac.png) no-repeat 98% 50%;
+    background: #fff url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/to-close-ac.png) no-repeat 98% 50%;
     padding: 13px 50px 14px 20px;
     margin-bottom: 10px;
     font-size: 22px;
@@ -5111,7 +5111,7 @@ html[xmlns] .flexslider .slides {
 }
 
 .inio-faq .ui-accordion-header.ui-state-active {
-    background-image: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/to-expand-ac.png);
+    background-image: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/to-expand-ac.png);
     margin-bottom: 0;
 }
 
@@ -5327,7 +5327,7 @@ div.wpcf7-validation-errors {
 
 .rightside .side-indent ul li {
     list-style: none;
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/arrow-icon.png) no-repeat left center;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/arrow-icon.png) no-repeat left center;
     font-size: 14px;
     line-height: 19px;
     padding-left: 20px;
@@ -5807,7 +5807,7 @@ input:-moz-placeholder {
 }
 
 .icontent ul li {
-    background: rgba(0, 0, 0, 0) url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/list_icon.png) no-repeat scroll 0 5px;
+    background: rgba(0, 0, 0, 0) url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/list_icon.png) no-repeat scroll 0 5px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     line-height: 22px;
@@ -5979,11 +5979,11 @@ a.download-button {
 }
 
 a.download-button.icon-pdf {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/icon-pdf.png) no-repeat 0 0px;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/icon-pdf.png) no-repeat 0 0px;
 }
 
 a.download-button.icon-pdf.large-icon {
-    background: url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/icon-pdf-large.png) no-repeat 0 0;
+    background: url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/icon-pdf-large.png) no-repeat 0 0;
     width: 60px;
     height: 62px;
     padding: 0;
@@ -6501,7 +6501,7 @@ span.wpcf7-list-item input {
     }
 
     .inav #nav-icon {
-        background: #8ea7b6 url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 3px / 32px auto;
+        background: #8ea7b6 url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 3px / 32px auto;
         color: #fff;
         cursor: pointer;
         display: block;
@@ -6524,7 +6524,7 @@ span.wpcf7-list-item input {
 
     .inav #nav-icon:hover,
     .inav #nav-icon.show {
-        background: #8ea7b6 url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 3px / 32px auto;
+        background: #8ea7b6 url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 3px / 32px auto;
         color: #d4118b;
     }
 
@@ -6677,7 +6677,7 @@ span.wpcf7-list-item input {
 
     .header .call-phone span {
         font-size: 16px;
-        background: rgba(0, 0, 0, 0) url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/phone-icon2x.png) no-repeat scroll left center;
+        background: rgba(0, 0, 0, 0) url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/phone-icon2x.png) no-repeat scroll left center;
         background-size: 20px auto;
         padding-left: 25px;
     }
@@ -7015,12 +7015,12 @@ span.wpcf7-list-item input {
         -webkit-border-radius: 0;
         height: 43px;
         top: -53px;
-        background: #8ea7b6 url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 5px / 32px auto;
+        background: #8ea7b6 url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 5px / 32px auto;
     }
 
     .inav #nav-icon:hover,
     .inav #nav-icon.show {
-        background: #8ea7b6 url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 5px / 32px auto;
+        background: #8ea7b6 url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/nav-trigger.png) no-repeat scroll 50% 5px / 32px auto;
     }
 
     .header .logo {
@@ -7399,7 +7399,7 @@ span.wpcf7-list-item input {
     }
 
     .header .call-phone span {
-        background: rgba(0, 0, 0, 0) url(//www.prsinsurancesolutions.com/wp-content/themes/scprs/images/phone-icon2x.png) no-repeat scroll left center;
+        background: rgba(0, 0, 0, 0) url(//www.paynefamilyfinancial.com/wp-content/themes/scprs/images/phone-icon2x.png) no-repeat scroll left center;
         background-size: 20px auto;
         padding-left: 26px;
         font-size: 12px !important;
